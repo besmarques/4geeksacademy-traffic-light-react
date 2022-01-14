@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.button{
+    width:250px;
+    height:250px;
+    border-radius:100%;
+    border:none;
+}
+
+.redbutton{
+    background-color: red;
+}
+
+.yellowbutton{
+    background-color: yellow;
+}
+
+.greenbutton{
+    background-color: green;
+}
+
+.selected{
+    border: 10px solid gold;
+}
